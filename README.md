@@ -97,6 +97,8 @@ jupyter notebook gold_price_prediction.ipynb
 
 4. **Execute all cells to train, test, and evaluate the model.**
 
+
+
 ## 📈 Future Improvements
 
 *Integrate live financial data APIs (e.g., Yahoo Finance, Alpha Vantage)
@@ -104,6 +106,8 @@ jupyter notebook gold_price_prediction.ipynb
 *Use LSTM or GRU models for time-series forecasting
 
 *Deploy a web dashboard using Flask or Streamlit for real-time prediction
+
+
 
 ## 👨‍💻 Developer
 
