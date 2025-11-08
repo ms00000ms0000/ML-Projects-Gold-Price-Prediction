@@ -1,4 +1,4 @@
-# 🪙 ML Project - Gold Price Prediction  
+# 💰 ML Project - Gold Price Prediction  
 
 ## 🚀 Overview  
 This **Machine Learning project** focuses on **Gold Price Prediction** using the **Random Forest Regressor** model. The model uses key financial indicators — **SPX, GLD, USO, SLV, and EUR/USD** — to forecast the price of gold based on market trends.  
