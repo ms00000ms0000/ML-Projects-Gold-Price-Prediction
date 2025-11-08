@@ -57,10 +57,9 @@ The trained model achieved an impressive **R² score of 0.98**, demonstrating ex
 
    pip install -r requirements.txt
 
-
 4. **Run the notebook or script:**
    
-Open the project in Jupyter Notebook or VS Code and execute the cells to train and test the model.
+  Open the project in Jupyter Notebook or VS Code and execute the cells to train and test the model.
 
 ## 👨‍💻 Developer
 
