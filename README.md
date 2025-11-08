@@ -48,9 +48,9 @@ The trained model achieved an impressive **R² score of 0.98**, demonstrating ex
    ```bash
    git clone https://github.com/ms00000ms0000/ML-Projects-Gold-Price-Prediction.git
 
-2.**Navigate to the project directory:**
+2. **Navigate to the project directory:**
 
-   cd ML-Projects-Gold-Price-Prediction
+    cd ML-Projects-Gold-Price-Prediction
 
 
 3. **Install required dependencies:**
