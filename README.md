@@ -69,8 +69,8 @@ The trained **Random Forest Regressor** achieved an **R² score of ~0.98**, effe
 
 📦 ML_Project_Gold_Price_Prediction
 │
-├── gold_price_prediction.ipynb # Jupyter Notebook with full model code
-├── gold_data.csv # Dataset used for training and testing
+├── Gold_Price_Prediction.ipynb # Jupyter Notebook with full model code
+├── gld_price_data.csv # Dataset used for training and testing
 └── README.md # Project documentation
 ```
 
